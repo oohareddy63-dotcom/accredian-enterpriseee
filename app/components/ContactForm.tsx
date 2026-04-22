@@ -2,7 +2,6 @@
 
 import { useState } from 'react';
 import { useInView } from '../hooks/useInView';
-
 const programs = [
   { value: 'corporate-training', label: 'Corporate Training' },
   { value: 'data-science', label: 'Data Science Excellence' },
