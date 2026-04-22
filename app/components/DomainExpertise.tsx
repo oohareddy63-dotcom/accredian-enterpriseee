@@ -5,6 +5,7 @@ export default function DomainExpertise() {
       description: "Drive product excellence and innovation mindset",
       icon: "🚀"
     },
+    
     {
       title: "Gen-AI Mastery",
       description: "Master generative AI technologies and applications",
