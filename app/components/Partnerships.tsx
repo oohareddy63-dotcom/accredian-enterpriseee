@@ -16,7 +16,6 @@ const partners = [
 export default function Partnerships() {
   const { ref, inView } = useInView();
   const doubled = [...partners, ...partners]; // for seamless loop
-
   return (
     <section id="clients" className="py-20 bg-white overflow-hidden">
       <div className="container mx-auto px-6 mb-10">
