@@ -5,6 +5,7 @@ export default function WhoShouldJoin() {
       description: "Enhance expertise, embrace tech, drive innovation.",
       icon: "✅"
     },
+    
     {
       title: "Non-Tech Professionals",
       description: "Adapt digitally, collaborate in tech environments.",
