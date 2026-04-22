@@ -11,7 +11,6 @@ interface LeadData {
 
 // In-memory store (replace with a real DB in production)
 const leads: LeadData[] = [];
-
 export async function POST(req: NextRequest) {
   try {
     const body: LeadData = await req.json();
